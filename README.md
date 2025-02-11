@@ -20,4 +20,4 @@ Bilgilendirme: YOLO'nun Nano/Small/Medium versiyonları denenmiş olup alttaki k
 * Medium ≈ (8 GB VRAM)
 
 ## Kullanım
-* model.ipynb dosyasını, jupyter notebook ile bağladıktan sonra 'data.yaml' dosyasındaki gerekli pathleri düzelterek, her bir cell'i runlayarak modeli oluşturup ya da hali hazırda repo'da bulunan modeli kullanabilirsiniz.
+* model.ipynb dosyasını, jupyter notebook ile bağladıktan sonra 'data.yaml' dosyasındaki gerekli pathleri düzelterek ve kendi datasetinizi vererek, her bir cell'i runlayarak modeli oluşturup ya da hali hazırda repo'da bulunan modeli kullanabilirsiniz.
