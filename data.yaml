@@ -1,0 +1,13 @@
+train: /home/shagen/vscode/road-sign/yolov8/train/images
+val: /home/shagen/vscode/road-sign/yolov8/valid/images
+test: /home/shagen/vscode/road-sign/yolov8/test/images
+
+nc: 34
+names: ['0', '1', '10', '13', '16', '17', '18', '19', '2', '20', '3', '6', '7', '8', '9', 'donel_kavsak', 'dur', 'durak', 'engelli_park', 'girilmez', 'ileri', 'ileri_sag', 'park', 'park_yasak', 'sag_don', 'sag_mecburi', 'sag_yasak', 'sagdan_gidin', 'sol_don', 'sol_mecburi', 'sol_yasak', 'soldan_gidin', 'trafik_lambasi', 'yaya']
+
+roboflow:
+  workspace: yozgatgmarabatakimi-3mu0j
+  project: tabelatespit
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yozgatgmarabatakimi-3mu0j/tabelatespit/dataset/2
